@@ -1,4 +1,5 @@
 # Pangenome_Barcoding
+'_AACB_CS6024_Pangenome_Barcoding.pdf_' contains the project report. 
 
 The python files contain implementations of the code for the 3 algorithms mentioned in the project report, along with an implementation of the Quarter Alg from Rahmann et al. (2024).
 
